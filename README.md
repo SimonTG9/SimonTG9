@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimonTG9
 - 👀 I’m interested in EVERYTHING AND ANYTHING
 - 🌱 I’m currently learning mulesoft, python, and C++
-- 💞️ I’m looking to collaborate on quantum computing, quantum memeory, and game development 
+- 💞️ I’m looking to collaborate on quantum computing, quantum memory, and game development 
 - 📫 How to reach me tg9.simon@gmail.com
 
 <!---
